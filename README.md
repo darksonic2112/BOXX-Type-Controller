@@ -2,6 +2,10 @@
 
 This repository contains "building-block" stl-files to create a BOXX-Type controller.
 
+## TL;DR
+If you just care about the put together BOXX components, its in the "Sample BOXX" file.
+Adjustments can be made with any tool that takes stl files (I used  https://www.tinkercad.com).
+
 
 ## Elements and Measurements of the modular components
 
@@ -31,10 +35,21 @@ This repository contains "building-block" stl-files to create a BOXX-Type contro
 
 ### Elevation
 - Elevates and hides the screws from the backplate of the controller, so that the screws do not touch the surface its standing on.
-- Elevation: 10mm diameter x 2mm height
+- Elevation: 10mm diameter x 3mm (total 6mm) height
 - Ring on top of elevation: 10mm diameter x 3mm height with a 7mm diameter x 3mm height carve in
 - Screw hole: 3mm diameter x 3mm depth
 
 ### Support Beam
 - Enhances durability of the backplates
 - Support Beam: 10mm diameter x 20mm height
+
+
+## BOXX Controllers
+
+### Sample BOXX
+- The sample BOXX is all the module components above put together. Since I couldn't find a good way to represent the key-switch-holes as a component, you have to drill them yourself.
+- Key-switch-holes 14mm x 14mm x 10mm (5mm outside of the controller + 5mm reinforcements)
+- Key-switch-hole reinforcements: 5mm thick (custom shaped for each layout so no length/width)
+- Hole at the connection point: 5mm (each side) x 80mm x 20mm
+
+
