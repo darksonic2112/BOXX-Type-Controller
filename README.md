@@ -3,7 +3,10 @@
 This repository contains "building-block" stl-files to create a BOXX-Type controller.
 
 ## TL;DR
-If you just care about the put together BOXX components, its in the "Sample BOXX" file.
+If you just care about the put-together BOXX:
+The "Sample BOXX" file contains 3 files (backplate has to be printed twice). 
+You need to carve out a way so you can connect your e.g. arduino with the outside world.
+The "DARKSONIC BOXX" (No Name Alternative included) is customized for an Arduino micro and a 12mm x 6mm USB-C female.
 Adjustments can be made with any tool that takes stl files (I used  https://www.tinkercad.com).
 
 
@@ -43,13 +46,23 @@ Adjustments can be made with any tool that takes stl files (I used  https://www.
 - Enhances durability of the backplates
 - Support Beam: 10mm diameter x 20mm height
 
+### Cable Management
+- For the cables that connect the key-switches to the e.g. arduino
+- Cable management structure: 10mm x 10mm
+- Cable management hole: 5mm x 5mm
 
 ## BOXX Controllers
 
 ### Sample BOXX
-- The sample BOXX is all the module components above put together. Since I couldn't find a good way to represent the key-switch-holes as a component, you have to drill them yourself.
+- The Sample BOXX is all module components above (except cable management) put together. Since I couldn't find a good way to represent the key-switch-holes as a component, you have to arve them out yourself, if you are unhappy with the layout.
 - Key-switch-holes 14mm x 14mm x 10mm (5mm outside of the controller + 5mm reinforcements)
 - Key-switch-hole reinforcements: 5mm thick (custom shaped for each layout so no length/width)
 - Hole at the connection point: 5mm (each side) x 80mm x 20mm
+
+### DARKSONIC BOXX
+- The DARKSONIC BOXX is a bit more customized to my liking. Includes cable magement, a spot for the Arduino-micro to fit in, and an oval hole that fits a 12mm x 6mm USB-C female. I generated the Text through "Text2STL" and used the font "Brown Beige" and reinforced it with a 5mm thick backplate. Additionally the Edges are smoothed out a bit.
+- Has same measurements as the Sample BOXX
+- A "No Name Alternative" is included, if you like the overall design but not the name :,)
+
 
 
