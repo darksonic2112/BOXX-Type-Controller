@@ -27,9 +27,10 @@ Adjustments can be made with any tool that takes stl files (I used  https://www.
 - Connect both halfs through the middle
 - Pin: 5mm diameter x 15mm length
 - Pin-hole: 5.22mm diameter x 5mm depth
-- Screw hole (big): 7mm
-- Screw hole (small): (combined) 3mm each 
-- Note: The connection pieces are intended to have a 10mm wall between them. The small screw hole is for the screw to be screwed in, while the big screw hole just indicates the spot and reduces the distance to the other connection piece
+- Screw hole (big): 7mm diameter
+- Connection_Pice_A Screw hole (small): 4mm diameter
+- Connection_Pice_B Screw hole (small): 3mm diameter 
+- Note: The connection pieces are intended to have a 10mm thick wall, with a 3mm diameter screw hole between them. The small screw hole is for the screw to be screwed in, while the big screw hole just indicates the spot and reduces the distance to the other connection piece.
 
 ### Backplate
 - Attaches to the back of the controller
