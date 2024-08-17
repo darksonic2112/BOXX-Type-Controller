@@ -4,10 +4,10 @@ This repository contains "building-block" stl-files to create a BOXX-Type contro
 
 ## TL;DR
 If you just care about the put-together BOXX:
-The "Sample BOXX" file contains 3 files (backplate has to be printed twice). 
-You need to carve out a way so you can connect your e.g. arduino with the outside world.
+The "Sample BOXX" file contains 4 files for the 2 fronts and 2 backplates. 
+You need to carve out a way so you can connect your e.g. arduino with the consol/PC.
 The "DARKSONIC BOXX" (No Name Alternative included) is customized for an Arduino micro and a 12mm x 6mm USB-C female.
-Adjustments can be made with any tool that takes stl files (I used  https://www.tinkercad.com).
+Adjustments can be made with any tool that takes stl files (I used https://www.tinkercad.com).
 
 
 ## Elements and Measurements of the modular components
@@ -55,7 +55,7 @@ Adjustments can be made with any tool that takes stl files (I used  https://www.
 ## BOXX Controllers
 
 ### Sample BOXX
-- The Sample BOXX is all module components above (except cable management) put together. Since I couldn't find a good way to represent the key-switch-holes as a component, you have to arve them out yourself, if you are unhappy with the layout.
+- The Sample BOXX is all module components above (except cable management) put together. Since I couldn't find a good way to represent the key-switch-holes as a component, you have to carve them out yourself, if you are unhappy with the layout.
 - Key-switch-holes 14mm x 14mm x 10mm (5mm outside of the controller + 5mm reinforcements)
 - Key-switch-hole reinforcements: 5mm thick (custom shaped for each layout so no length/width)
 - Hole at the connection point: 5mm (each side) x 80mm x 20mm
