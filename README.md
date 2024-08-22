@@ -17,7 +17,7 @@ Here I want to share my experience putting the BOXX together and provide a bit o
 
 ### DARKSONIC BOXX / No Name Alternative
 - The connection pieces hold the two halfes together very well. I needed a hammer to get them together. There is a slight gap (>1mm, still visible tho) that could be resolved by changing the position of the connection pieces or the depth of the holes. The 4mm screw hole on the Connection_Piece_A is too lose and should be 3mm. As it is, you can screw the screw in at its not lose (you cant hear it when shaking), but it doesn't feel like its holding a lot.
-- The USB-C hole holds the USB-C female in place, but even putting resonable amount of force to put the USB-C cable in results in the USB-C female going inside the case. It should be either reinforced with glue or printed a bit tighter.  
+- The USB-C hole holds the USB-C female in place and is tight. Could be reinforced with glue, but is not necessary as far as i can tell.
 - Getting rid of the holes inside the connection pieces requires a relatively small plier. If you decide to use letters, the pin holes for the letters required a drill (for me at least). After putting the letters in they fit very well and it feels stable.
 - The cable management feels nice, but gets tight after 7 cables. If you decide to use them for all cables, the hole should be a bit bigger (7mm x 7mm). Also consider you need more cable, especially for the edges, if you use the cable management.
 - The Arduino-Micro fits well in the placeholder, as long as the cables soldered into the Arduino doesnt strain the Arduino too much.
